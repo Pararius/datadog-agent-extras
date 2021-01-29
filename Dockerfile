@@ -1,4 +1,4 @@
-FROM datadog/agent:7.22.0
+FROM datadog/agent:7.25.1
 
 LABEL maintainer="TreeHouse <dev@treehouse.nl>"
 
